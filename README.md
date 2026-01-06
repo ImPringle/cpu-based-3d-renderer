@@ -26,5 +26,9 @@ It intentionally avoids high-level graphics libraries to focus on
 - SDL2
 - Linear Algebra (vectors, transformations, projections)
 
+### Credits for the graphics learning content
+- Tsoding 
+- Pikuma
+
 ### Demo
 https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM3Z3VwejBhYzJzbDRnZ2psMHZpbzN3emF2cDc3ZGJ4YTF0ZmhlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RnCUf2MniQMJ5HAmEm/giphy.gif

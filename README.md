@@ -1,6 +1,6 @@
 ## CPU-Based 3D Renderer in C++
 
-Soft3D is a minimal software 3D renderer written entirely in C++.
+This is a minimal software 3D renderer written entirely in C++.
 The project focuses on **graphics fundamentals**, implementing a full 3D
 transformation and projection pipeline **without GPU APIs**.
 
@@ -27,4 +27,4 @@ It intentionally avoids high-level graphics libraries to focus on
 - Linear Algebra (vectors, transformations, projections)
 
 ### Demo
-*(Add GIF or screenshot here — very important)*
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM3Z3VwejBhYzJzbDRnZ2psMHZpbzN3emF2cDc3ZGJ4YTF0ZmhlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RnCUf2MniQMJ5HAmEm/giphy.gif
